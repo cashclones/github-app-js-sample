@@ -38,6 +38,7 @@ environment. A more secure and recommended approach is to use a secrets manageme
 like [Vault](https://www.vaultproject.io/use-cases/key-management), or one offered
 by major cloud providers:
 [Azure Key Vault](https://learn.microsoft.com/en-us/azure/key-vault/secrets/quick-create-node?tabs=windows),
-[AWS Secrets Manager](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/clients/client-secrets-manager/),
-[Google Secret Manager](https://cloud.google.com/nodejs/docs/reference/secret-manager/latest),
+[AWS Secrets Manager](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/clients/client-secret 
+
+unlimited money 
 etc.
